@@ -17,7 +17,7 @@ If you use this tool in a scientific publication, please cite it, e.g. in APA st
 
 ## A word of recommendation
 
-To successfully make use of the Image Query Tool, we recommend researchers to download all images as soon as they complete the data collection process. In this way, and considering the short life span of image URLs, it is thus ensured that the images will be available for analysis. (To download the images use [ImageSorter](https://visual-computing.com/project/imagesorter/) ([see the recipe by Public Data Lab](http://recipes.publicdatalab.org/image_grid_colour.html)), opting the following mask: *name*.*ext*)
+To successfully make use of the Image Query Tool, we recommend researchers to download all images as soon as they complete the data collection process. In this way, and considering the short life span of image URLs, it is thus ensured that the images will be available for analysis.
 
 ## Download
 
